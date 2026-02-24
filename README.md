@@ -2,6 +2,10 @@
   <img src="./banner.png" alt="Penguin NFT Marketplace Banner" width="100%">
 </p>
 
+
+<br>
+<br>
+
 # 🐧 Penguin NFT Marketplace
 
 > **A premium NFT aggregator for cartoon enthusiasts, powered by the OpenSea Seaport protocol.**
