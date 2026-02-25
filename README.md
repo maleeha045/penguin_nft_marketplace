@@ -1,8 +1,14 @@
 <p align="center">
   <img src="./banner.png" alt="Penguin NFT Marketplace Banner" width="100%">
 </p>
-
-
+<br>
+<p align="center">
+  <img src="./banner1.png" alt="Penguin NFT Marketplace Banner" width="100%">
+</p>
+<br>
+<p align="center">
+  <img src="./banner2.png" alt="Penguin NFT Marketplace Banner" width="100%">
+</p>
 <br>
 <br>
 
